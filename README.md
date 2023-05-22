@@ -1,19 +1,22 @@
 # GLMW23
 Gridlife MDW23 - El Plan
 
-### Things We Have
-- [X] Tents
-- [X] 1x Tarp
-- [X] Sleeping Bags
-- [X] Sleeping Mats
-- [X] Flapjack Maker
-- [X] Roadtrip Car
+## Inventory
+- 2x Tents
+- 1x Tarp
+- Sleeping Bags
+- Sleeping Mats
+- Flapjack Maker
+- Roadtrip Car
+- Backpacks
 
 ### Things Still We Need
-- [ ] Water?
-- [ ] Food Provisions
-- [ ] Roadtrip Schedule
+- [ ] 1x Tent Setup
+- [ ] Crash pad in/around Chi?
 
 ## Todo List
-- [ ] Provisions Stop
+- [ ] Shopping Stop
+  - [ ] Redbull
+  - [ ] Water
+  - [ ] Ramen?
 - [ ] Alltrack Oil Change
