@@ -17,4 +17,3 @@ Gridlife MDW23 - El Plan
 ## Todo List
 - [ ] Provisions Stop
 - [ ] Alltrack Oil Change
-- [ ] 
