@@ -14,7 +14,7 @@ Gridlife MDW23 - El Plan
 ### Things We Still Need
 - [ ] 1x Tent Setup
 - [ ] Crash pad in/around Chi?
-- [ ] Cooking/Eating utensils
+- [X] Cooking/Eating utensils
 - [ ] Freezer Packs (keepin shit cool in the yetis)
 
 ## Todo List
