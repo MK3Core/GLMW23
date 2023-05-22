@@ -7,10 +7,14 @@ Gridlife MDW23 - El Plan
 - [X] Sleeping Bags
 - [X] Sleeping Mats
 - [X] Flapjack Maker
-- [X] Coffee Things
 - [X] Roadtrip Car
 
-### Things We Need
+### Things Still We Need
 - [ ] Water?
 - [ ] Food Provisions
 - [ ] Roadtrip Schedule
+
+## Todo List
+- [ ] Provisions Stop
+- [ ] Alltrack Oil Change
+- [ ] 
