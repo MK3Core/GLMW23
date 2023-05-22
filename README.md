@@ -11,7 +11,7 @@ Gridlife MDW23 - El Plan
 - Backpacks
 - 1x Big pot
 
-### Things Still We Need
+### Things We Still Need
 - [ ] 1x Tent Setup
 - [ ] Crash pad in/around Chi?
 - [ ] Cooking/Eating utensils
